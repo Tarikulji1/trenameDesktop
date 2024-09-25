@@ -1,0 +1,12 @@
+{
+  "name": "trenamedesktop",
+  "version": "1.0.0",
+  "description": "trenameDesktop is a bulk rename desktop utility application. It change all files name onclick on this application help.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
